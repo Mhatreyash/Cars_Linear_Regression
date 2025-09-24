@@ -42,9 +42,4 @@ Scatter plots saved as .png files:
 
 📌 Dataset
 The dataset used is mpg.csv (https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-BD0231EN-SkillsNetwork/datasets/mpg.csv).
-
-🔮 Future Improvements
-Add more features (e.g., Cylinders, Acceleration).
-Try non-linear models.
-Deploy as a simple web app (e.g., with Flask or Streamlit).
 ---
