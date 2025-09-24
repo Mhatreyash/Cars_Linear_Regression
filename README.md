@@ -27,17 +27,20 @@ python main.py
 ```
 
 This will:
+```
 Load and explore the dataset.
 Visualize the relationship between Horsepower/Weight and MPG.
 Train a Linear Regression model.
 Evaluate the model (MSE & R²).
 Make a prediction for a sample car (Horsepower=100, Weight=2000).
-
+```
 📊 Example Output
+```
 Model Coefficients and Intercept
 Mean Squared Error and R² score
 Predicted MPG for sample inputs
 Scatter plots saved as .png files:
+```
 ```scatter_hp_mpg.png```
 ```scatter_weight_mpg.png```
 
