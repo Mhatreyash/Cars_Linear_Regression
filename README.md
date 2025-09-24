@@ -5,11 +5,12 @@ This project demonstrates how to use **Linear Regression** to predict a car's **
 ---
 
 ## 📂 Project Structure
+```
 ├── main.py # Main script
 ├── README.md # Project documentation
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Git ignore rules
-
+```
 ---
 
 ## ⚙️ Requirements
